@@ -1,0 +1,1 @@
+const UrlApi = "https://20.20.17.5:7035/api/";
